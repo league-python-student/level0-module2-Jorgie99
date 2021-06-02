@@ -4,7 +4,7 @@
 # ***********  SOUND ***************
 # Some computers are unable to play sounds. 
 # If you cannot play sound on this computer, set canPlaySounds to false.
-# If you are not sure, ask your teacher 
+# If you are not sure, ask your teacher
 
 can_play_sounds = False
 
